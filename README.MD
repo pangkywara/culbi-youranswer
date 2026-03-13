@@ -15,6 +15,15 @@
 </p>
 
 <p align="center">
+  <a href="INSERT_YOUTUBE_LINK_HERE">
+    <img src="https://img.shields.io/badge/📺_Video_Demo-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Demo" />
+  </a>
+  <a href="INSERT_REPORT_LINK_HERE">
+    <img src="https://img.shields.io/badge/📊_Final_Report-View_Project-orange?style=for-the-badge&logo=googledocs&logoColor=white" alt="Final Report" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Expo_SDK-54-000020?style=flat-square&logo=expo" />
   <img src="https://img.shields.io/badge/React_Native-0.81.5-61DAFB?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/TypeScript-5.9-3178C6?style=flat-square&logo=typescript" />
