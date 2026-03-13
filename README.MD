@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://echoframe.site">
-    <img src="https://img.shields.io/badge/📲_Download_App-echoframe.sites-blue?style=for-the-badge&logoColor=white" alt="Download on echoframe.site" />
+    <img src="https://img.shields.io/badge/📲_Download_App-echoframe.site-blue?style=for-the-badge&logoColor=white" alt="Download on echoframe.site" />
   </a>
 </p>
 
@@ -333,3 +333,7 @@ Built with ❤️ for the BorNEO HackWknd.
 ## 📄 License
 
 Private — All rights reserved, .
+
+## ‼ Notes Important
+
+If Google OAuth login fails, please use the standard email login. Sign up first, verify your account via the confirmation email, and then log in to the application.
