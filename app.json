@@ -1,0 +1,87 @@
+{
+  "expo": {
+    "name": "Culbi",
+    "slug": "culbi",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon2.png",
+    "scheme": "culbi",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/icon2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.pangkywara.culbi",
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "config": {
+        "googleMapsApiKey": ""
+      },
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "Culbi needs access to your location to show you on the map and help you discover nearby cultural landmarks."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/icon2.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.pangkywara.culbi",
+      "googleServicesFile": "./google-services.json",
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false,
+      "permissions": [
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION",
+        "READ_MEDIA_IMAGES",
+        "READ_MEDIA_VIDEO"
+      ],
+      "config": {
+        "googleMaps": {
+          "apiKey": ""
+        }
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/icon2.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Allow Culbi to use your location to show you on the map and discover nearby cultural landmarks."
+        }
+      ],
+      [
+        "expo-media-library",
+        {
+          "photosPermission": "Allow Culbi to save images to your gallery.",
+          "savePhotosPermission": "Allow Culbi to save images to your gallery.",
+          "isAccessMediaLocationEnabled": false
+        }
+      ],
+      [
+        "@react-native-google-signin/google-signin",
+        {
+          "iosUrlScheme": "com.googleusercontent.apps.648573548960-fgph87gce05d1g039vctnfbjcdeuhheh"
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "985fc382-d00b-44d9-8705-710fa9acc8f6"
+      }
+    },
+    "owner": "pangkywara"
+  }
+}

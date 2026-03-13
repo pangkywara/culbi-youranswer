@@ -1,0 +1,44 @@
+version: 1.0
+
+# ── Build phase ───────────────────────────────────────────────────────────────
+# Used when App Runner builds directly from a GitHub source (ECR image-based
+# deployments skip this section – the Dockerfile handles everything).
+build:
+  commands:
+    pre-build:
+      - echo "Installing Python dependencies..."
+      - pip install --upgrade pip
+      - pip install -r requirements.txt
+  env:
+    # Non-secret build-time defaults (override sensitive values in the
+    # App Runner console under "Environment variables" or via Secrets Manager)
+    - name: PYTHONDONTWRITEBYTECODE
+      value: "1"
+    - name: PYTHONUNBUFFERED
+      value: "1"
+
+# ── Run phase ─────────────────────────────────────────────────────────────────
+run:
+  runtime-version: 3.12
+  command: uvicorn main:app --host 0.0.0.0 --port 8000
+  network:
+    port: 8000
+    env: PORT
+  env:
+    - name: PYTHONDONTWRITEBYTECODE
+      value: "1"
+    - name: PYTHONUNBUFFERED
+      value: "1"
+    # ── Secrets – set these in App Runner console or AWS Secrets Manager ──────
+    # Do NOT hardcode values here.
+    #
+    # Required:
+    #   GEMINI_API_KEY
+    #   EXPO_PUBLIC_GOOGLE_PLACES_API_KEY
+    #   SUPABASE_URL
+    #   SUPABASE_SERVICE_ROLE_KEY
+    #
+    # Optional:
+    #   GEMINI_MODEL          (default: gemini-2.5-flash)
+    #   FILE_SEARCH_STORE_NAMES
+    #   DEBUG                 (default: false)

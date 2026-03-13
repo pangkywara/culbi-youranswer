@@ -1,0 +1,18 @@
+# Gemini Gen AI SDK
+google-genai>=1.10.0
+
+# Web framework
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+
+# Env file loading
+python-dotenv>=1.0.0
+
+# Type hints back-fill for Python < 3.12
+typing-extensions>=4.10.0
+
+# Supabase Python client (used by seed_landmarks.py)
+supabase>=2.0.0
+
+# HTTP requests (Google Places API)
+requests>=2.31.0
