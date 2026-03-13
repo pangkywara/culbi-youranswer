@@ -303,12 +303,12 @@ culbi/
 ## 📲 Download the App
 
 <p align="center">
-  <a href="https://echoframe.sites">
-    <img src="https://img.shields.io/badge/📲_Download_Now-echoframe.sites-1a1a1a?style=for-the-badge&labelColor=4A90D9&logoColor=white" alt="Download" />
+  <a href="https://echoframe.site">
+    <img src="https://img.shields.io/badge/📲_Download_Now-echoframe.site-1a1a1a?style=for-the-badge&labelColor=4A90D9&logoColor=white" alt="Download" />
   </a>
 </p>
 
-Visit **[echoframe.sites](https://echoframe.sites)** to download the latest build for Android and iOS.
+Visit **[echoframe.site](https://echoframe.site)** to download the latest build for Android and iOS.
 
 ---
 
