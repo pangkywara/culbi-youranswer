@@ -346,3 +346,5 @@ Private — All rights reserved, .
 ## ‼ Notes Important
 
 If Google OAuth login fails, please use the standard email login. Sign up first, verify your account via the confirmation email, and then log in to the application.
+
+Please note: The maps might not load correctly because the API costs have become quite expensive to maintain. Thank you for understanding! 😢❤️
