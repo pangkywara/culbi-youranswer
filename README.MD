@@ -169,7 +169,7 @@ Point your camera at a landmark — Culbi identifies it instantly using **Google
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-org/culbi.git
+git clone https://github.com/pangkywara/culbi-youranswer.git
 cd culbi
 
 # 2. Install dependencies
