@@ -317,7 +317,11 @@ culbi/
   </a>
 </p>
 
-Visit **[echoframe.site](https://echoframe.site)** to download the latest build for Android and iOS.
+Visit **[echoframe.site](https://echoframe.site)** to download the latest build for Android.
+
+OR use link below
+
+- APP Download: https://drive.google.com/drive/folders/1gOOMldQMN1mUQGvEblDlqJTrIRsm1_Ix
 
 ---
 
