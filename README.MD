@@ -12,12 +12,12 @@
   <a href="https://echoframe.site">
     <img src="https://img.shields.io/badge/🌐_Visit_Website-echoframe.site-blue?style=for-the-badge&logoColor=white" alt="Visit echoframe.site" />
   </a>
-  <a href="https://drive.google.com/drive/folders/1gOOMldQMN1mUQGvEblDlqJTrIRsm1_Ix">
-    <img src="https://img.shields.io/badge/💾_Download_App-Google_Drive-orange?style=for-the-badge&logoColor=white" alt="Download from Google Drive" />
-  </a>
 </p>
 
 <p align="center">
+  <a href="https://drive.google.com/drive/folders/1gOOMldQMN1mUQGvEblDlqJTrIRsm1_Ix">
+    <img src="https://img.shields.io/badge/💾_Download_App-Google_Drive-orange?style=for-the-badge&logoColor=white" alt="Download from Google Drive" />
+  </a>
 <a href="https://drive.google.com/file/d/1r6q6-PUKH6X31_BPxbcYmFNNnyVAmsvQ/view">
     <img src="https://img.shields.io/badge/🎥_Video_Demo-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Video Demo" />
   </a>
