@@ -10,7 +10,10 @@
 
 <p align="center">
   <a href="https://echoframe.site">
-    <img src="https://img.shields.io/badge/📲_Download_App-echoframe.site-blue?style=for-the-badge&logoColor=white" alt="Download on echoframe.site" />
+    <img src="https://img.shields.io/badge/🌐_Visit_Website-echoframe.site-blue?style=for-the-badge&logoColor=white" alt="Visit echoframe.site" />
+  </a>
+  <a href="https://drive.google.com/drive/folders/1gOOMldQMN1mUQGvEblDlqJTrIRsm1_Ix">
+    <img src="https://img.shields.io/badge/💾_Download_App-Google_Drive-orange?style=for-the-badge&logoColor=white" alt="Download from Google Drive" />
   </a>
 </p>
 
@@ -32,6 +35,12 @@
 </p>
 
 ---
+
+## 🔗 Link
+APP Download: https://drive.google.com/drive/folders/1gOOMldQMN1mUQGvEblDlqJTrIRsm1_Ix
+Video Demo: https://drive.google.com/file/d/1dXeqb4Kb6WChC0gw64gL5aUT8b8pW0Kh/view?usp=sharing
+Final Report: https://drive.google.com/file/d/1dXeqb4Kb6WChC0gw64gL5aUT8b8pW0Kh/view?usp=sharing
+
 
 ## 📖 What is Culbi?
 
