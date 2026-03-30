@@ -37,9 +37,9 @@
 ---
 
 ## 🔗 Link
-APP Download: https://drive.google.com/drive/folders/1gOOMldQMN1mUQGvEblDlqJTrIRsm1_Ix
-Video Demo: https://drive.google.com/file/d/1dXeqb4Kb6WChC0gw64gL5aUT8b8pW0Kh/view?usp=sharing
-Final Report: https://drive.google.com/file/d/1dXeqb4Kb6WChC0gw64gL5aUT8b8pW0Kh/view?usp=sharing
+- APP Download: https://drive.google.com/drive/folders/1gOOMldQMN1mUQGvEblDlqJTrIRsm1_Ix
+- Video Demo: https://drive.google.com/file/d/1dXeqb4Kb6WChC0gw64gL5aUT8b8pW0Kh/view?usp=sharing
+- Final Report: https://drive.google.com/file/d/1dXeqb4Kb6WChC0gw64gL5aUT8b8pW0Kh/view?usp=sharing
 
 
 ## 📖 What is Culbi?
